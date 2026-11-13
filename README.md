@@ -241,15 +241,3 @@ Jangan menaruh API key langsung di notebook atau mengunggahnya ke GitHub.
 6. Periksa hasil evaluasi, confusion matrix, trade-off, dan rekomendasi yang ditampilkan.
 
 Notebook menggunakan relative path `../data/customer_reviews_sentiment.csv`, sehingga notebook perlu berada di dalam folder `notebook/` seperti struktur di atas.
-
-## 11. Submission Checklist
-
-- [ ] Notebook eksperimen kedua pendekatan tersedia dan dapat dijalankan.
-- [ ] Dataset atau referensi dataset tersedia sesuai ketentuan assignment.
-- [ ] Metrik dan confusion matrix kedua pendekatan tersedia.
-- [ ] Tabel perbandingan dan interpretasi hasil tersedia.
-- [ ] Analisis trade-off, limitation, dan rekomendasi teknis tersedia.
-- [ ] `requirements.txt` tersedia.
-- [ ] README ini tersedia.
-- [ ] Repository menggunakan format `assignment-model-experiment-nama-peserta`.
-- [ ] Repository dapat diakses mentor (tidak private, atau mentor telah diberi akses).
