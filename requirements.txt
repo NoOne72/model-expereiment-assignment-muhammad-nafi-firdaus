@@ -1,0 +1,23 @@
+# ============================================================
+# requirements.txt
+# Sentiment Analysis: Scikit-learn vs Gemini
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# --- Data & komputasi ---
+numpy>=1.26
+pandas>=2.0
+
+# --- Visualisasi ---
+matplotlib>=3.7
+seaborn>=0.13
+
+# --- Machine Learning klasik ---
+scikit-learn>=1.3
+
+# --- Gemini API (SDK terbaru; paket lama "google-generativeai" sudah deprecated) ---
+google-genai>=1.0
+pydantic>=2.0          # schema structured output (JSON) untuk respons Gemini
+
+jupyter>=1.0
+
